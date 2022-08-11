@@ -1,6 +1,6 @@
 # Lagrangian Objective Function Leads to Improved Unforeseen Attack Generalization in Adversarial Training
 
-This repository contains the code for the paper "Lagrangian Objective Function Leads to Improved Unforeseen Attack Generalization in Adversarial Training". In this paper, we have shown that using the Lagrangian objective function for generating perturbations in adversarial training can improve the robustness against unseen attacks, and we could get better results than previous methods by making some improvements.
+This repository contains the code for the paper "[Lagrangian Objective Function Leads to Improved Unforeseen Attack Generalization](https://arxiv.org/abs/2103.15385)". In this paper, we have shown that using the Lagrangian objective function for generating perturbations in adversarial training can improve the robustness against unseen attacks, and we could get better results than previous methods by making some improvements.
 
 ## Lagrange Attack
 Our proposed attack is available in `Lag_attack.py`.  This attack is specifically designed for adversarial training and we use it for this purpose.
